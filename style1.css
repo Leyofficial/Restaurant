@@ -507,6 +507,9 @@ body {
 .galery {
     border-top: #000 solid;
 }
+.card-title span {
+    margin-left: 7px;
+}
 
 
 .cook {
