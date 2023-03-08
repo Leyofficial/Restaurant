@@ -504,6 +504,10 @@ body {
     margin-bottom: 20px;
 }
 
+.galery {
+    border-top: #000 solid;
+}
+
 
 .cook {
     padding-bottom: 100px;
